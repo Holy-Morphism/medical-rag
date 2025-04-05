@@ -5,7 +5,6 @@ import json
 import glob
 from typing import List, Dict, Any
 import time
-import nltk # Keep if using NLTK functions, otherwise can remove download/import
 
 # LangChain & dependencies
 from langchain.docstore.document import Document
