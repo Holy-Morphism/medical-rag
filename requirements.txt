@@ -4,7 +4,7 @@ faiss-cpu
 sentence-transformers
 huggingface-hub
 langchain-community
-langchain-ollama
+langchain-google-genai
 python-dotenv
 huggingface_hub
 langchain-huggingface
